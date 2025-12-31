@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="gh" fetch="https://github.com" />
+    <remote name="glab" fetch="https://gitlab.com" />
+
+    <project path="device/xiaomi/haydn" name="Haydn-Lab/device_xiaomi_haydn" remote="gh" revision="afl" />
+    <project path="device/xiaomi/sm8350-common" name="Haydn-Lab/device_xiaomi_sm8350-common" remote="gh" revision="afl" />
+
+    <project path="vendor/xiaomi/haydn" name="Haydn-Lab/vendor_xiaomi_haydn" remote="gh" revision="16" />
+    <project path="vendor/xiaomi/sm8350-common" name="Haydn-Lab/vendor_xiaomi_sm8350-common" remote="gh" revision="16" />
+
+    <project path="kernel/xiaomi/sm8350" name="Haydn-Lab/kernel_xiaomi_haydn" remote="gh" revision="lineage-22.2" clone-depth="1" recursive="true" />
+
+    <project path="vendor/xiaomi/haydn-firmware" name="Hexdare/vendor_xiaomi_haydn-firmware" remote="glab" revision="fifteen" />
+
+    <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github" revision="lineage-23.0" />
+
+    <project path="vendor/xiaomi/haydn-miuicamera" name="Hexdare/haydn-miuicamera" remote="glab" revision="fifteen-leica" />
+    
+    <project path="hardware/dolby" name="Haydn-Lab/hardware_dolby" remote="gh" revision="16" />
+
+    <project path="hardware/sony/timekeep" name="LineageOS/android_hardware_sony_timekeep" remote="gh" revision="lineage-23.0" />
+
+    <project path="vendor/afterlife-priv/keys" name="Hexdare/keys" remote="gh" revision="afl" />
+</manifest>
