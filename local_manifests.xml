@@ -9,7 +9,7 @@
     <project path="vendor/xiaomi/haydn" name="Haydn-Lab/vendor_xiaomi_haydn" remote="gh" revision="16" />
     <project path="vendor/xiaomi/sm8350-common" name="Haydn-Lab/vendor_xiaomi_sm8350-common" remote="gh" revision="16" />
 
-    <project path="kernel/xiaomi/sm8350" name="Haydn-Lab/kernel_xiaomi_haydn" remote="gh" revision="lineage-22.2" clone-depth="1" recursive="true" />
+    <project path="kernel/xiaomi/sm8350" name="Haydn-Lab/kernel_xiaomi_haydn" remote="gh" revision="lineage-23.0" clone-depth="1" recursive="true" />
 
     <project path="vendor/xiaomi/haydn-firmware" name="Hexdare/vendor_xiaomi_haydn-firmware" remote="glab" revision="fifteen" />
 
