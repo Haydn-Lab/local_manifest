@@ -22,4 +22,6 @@
     <project path="hardware/sony/timekeep" name="LineageOS/android_hardware_sony_timekeep" remote="gh" revision="lineage-23.0" />
 
     <project path="vendor/afterlife-priv/keys" name="Hexdare/keys" remote="gh" revision="afl" />
+
+    <project path="packages/apps/GameBar" name="Hexdare/packages_apps_GameBar" remote="gh" revision="main" />
 </manifest>
