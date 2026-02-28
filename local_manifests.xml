@@ -24,4 +24,6 @@
     <project path="vendor/afterlife-priv/keys" name="Hexdare/keys" remote="gh" revision="afl" />
 
     <project path="packages/apps/GameBar" name="Hexdare/packages_apps_GameBar" remote="gh" revision="main" />
+
+    <project path="packages/apps/DolbyUI" name="swiitch-OFF-Lab/packages_apps_DolbyUI" remote="gh" revision="16.0" />
 </manifest>
