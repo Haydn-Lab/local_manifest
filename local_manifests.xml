@@ -19,8 +19,6 @@
     
     <project path="hardware/dolby" name="Haydn-Lab/hardware_dolby" remote="gh" revision="16" />
 
-    <project path="hardware/sony/timekeep" name="LineageOS/android_hardware_sony_timekeep" remote="gh" revision="lineage-23.2" />
-
     <project path="packages/apps/GameBar" name="Hexdare/packages_apps_GameBar" remote="gh" revision="main" />
 
     <project path="packages/apps/DolbyUI" name="swiitch-OFF-Lab/packages_apps_DolbyUI" remote="gh" revision="16.0" />
