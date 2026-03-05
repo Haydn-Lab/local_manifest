@@ -11,15 +11,15 @@
 
     <project path="kernel/xiaomi/sm8350" name="Haydn-Lab/kernel_xiaomi_haydn" remote="gh" revision="lineage-23.0" clone-depth="1" recursive="true" />
 
-    <project path="vendor/xiaomi/haydn-firmware" name="Hexdare/vendor_xiaomi_haydn-firmware" remote="glab" revision="fifteen" />
+    <project path="vendor/xiaomi/haydn-firmware" name="Hexdare/vendor_xiaomi_haydn-firmware" remote="glab" revision="fourteen" />
 
-    <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="gh" revision="lineage-23.0" />
+    <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="gh" revision="lineage-23.2" />
 
     <project path="vendor/xiaomi/haydn-miuicamera" name="Hexdare/haydn-miuicamera" remote="glab" revision="fifteen-leica" />
     
     <project path="hardware/dolby" name="Haydn-Lab/hardware_dolby" remote="gh" revision="16" />
 
-    <project path="hardware/sony/timekeep" name="LineageOS/android_hardware_sony_timekeep" remote="gh" revision="lineage-23.0" />
+    <project path="hardware/sony/timekeep" name="LineageOS/android_hardware_sony_timekeep" remote="gh" revision="lineage-23.2" />
 
     <project path="packages/apps/GameBar" name="Hexdare/packages_apps_GameBar" remote="gh" revision="main" />
 
